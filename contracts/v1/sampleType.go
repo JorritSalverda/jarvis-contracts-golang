@@ -6,6 +6,7 @@ const (
 	SampleType_SAMPLE_TYPE_INVALID                 SampleType = ""
 	SampleType_SAMPLE_TYPE_ELECTRICITY_CONSUMPTION SampleType = "SAMPLE_TYPE_ELECTRICITY_CONSUMPTION"
 	SampleType_SAMPLE_TYPE_ELECTRICITY_PRODUCTION  SampleType = "SAMPLE_TYPE_ELECTRICITY_PRODUCTION"
+	SampleType_SAMPLE_TYPE_ENERGY                  SampleType = "SAMPLE_TYPE_ENERGY"
 	SampleType_SAMPLE_TYPE_GAS                     SampleType = "SAMPLE_TYPE_GAS"
 	SampleType_SAMPLE_TYPE_TEMPERATURE             SampleType = "SAMPLE_TYPE_TEMPERATURE"
 	SampleType_SAMPLE_TYPE_PRESSURE                SampleType = "SAMPLE_TYPE_PRESSURE"
