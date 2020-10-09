@@ -14,4 +14,5 @@ const (
 	SampleType_SAMPLE_TYPE_FLOW                    SampleType = "SAMPLE_TYPE_FLOW"
 	SampleType_SAMPLE_TYPE_HUMIDITY                SampleType = "SAMPLE_TYPE_HUMIDITY"
 	SampleType_SAMPLE_TYPE_TIME                    SampleType = "SAMPLE_TYPE_TIME"
+	SampleType_SAMPLE_TYPE_HEAT_DEMAND             SampleType = "SAMPLE_TYPE_HEAT_DEMAND"
 )
